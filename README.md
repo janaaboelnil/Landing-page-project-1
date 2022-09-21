@@ -11,7 +11,8 @@
 
 ## Description
 Through the page you can find info. about Udacity such as: History, Nanodegrees, How to enroll, and Certifications. 
-All data used are from wikipedia to read more: https://en.wikipedia.org/wiki/Udacity
+**Disclaimer**
+The only copied part is the content itselfvused are from wikipedia to read more: https://en.wikipedia.org/wiki/Udacity
 
 
 ## programming languages used
