@@ -1,0 +1,43 @@
+h1{
+	margin: 1em 7em;
+	font-size: 3em;
+	font-family: "Georgia",Times,serif;
+}
+
+body{
+	background-image: linear-gradient(lightblue, purple);
+	margin:1;
+	font-family:"Times New Roman", Times, serif;
+	color: "black"; 
+}
+
+h2 {
+	font-size: 2.5em;
+	border-bottom: 2px;
+	text-decoration: underline;
+}
+
+p{
+	color: #000;
+
+}
+
+.home{
+	padding: 2em;
+}
+
+section{
+	position: relative;
+}
+
+
+.navbar-menu ul{
+	text-align: right;
+
+}
+
+.navbar-menu li{
+	display: inline;
+}
+
+
