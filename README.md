@@ -3,19 +3,21 @@
 ## Table of contents
 1.Navigation Bar
 2.Page Title
-3.History-Section 1
-4.Nanodegrees-Section 2
-5.Enrollment- Section 3
-6.Certifications- Section 4
+3.Section 1
+4.Section 2
+5.Section 3
+6.Section 4
 7.Lisence
 
 ## Description
-Through the page you can find info. about Udacity such as: History, Nanodegrees, How to enroll, and Certifications. 
-**Disclaimer**
-The only copied part is the content itselfvused are from wikipedia to read more: https://en.wikipedia.org/wiki/Udacity
+Through out the page you can add sections as you with and it will appear simulantaniously on the navigation bar.
+As well as as you click on the navigation bar the page should scroll smoothly throu out every section added.
+
+So take your time to try them out!
 
 
-## programming languages used
+
+## programming languages:
 JavaScript,
 HTML,
 CSS
